@@ -1,4 +1,4 @@
-# Multilingual-Healthcare-App
+# Symptom Translator
 
 To translate symptoms of speakers of one language to another language for use in medical diagnoses.
 Meant to address problem of misdiagnoses by obscure communication of body parts between doctors and patients.
