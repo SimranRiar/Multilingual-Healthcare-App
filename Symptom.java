@@ -1,5 +1,3 @@
-package hackRU_Spring2016;
-
 import java.util.*;
 import java.util.Scanner;
 
