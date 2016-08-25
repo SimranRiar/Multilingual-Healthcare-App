@@ -1,0 +1,5 @@
+spaNoticed[0] = "Erupción";
+spaNoticed[1] = "Moretón";
+spaNoticed[2] = "Espinilla";
+spaNoticed[3] = "Topo";
+spaNoticed[4] = "Urticaria";

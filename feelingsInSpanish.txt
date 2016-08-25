@@ -1,0 +1,8 @@
+spaFeel[0] = "Náusea";
+spaFeel[1] = "Fatiga";
+spaFeel[2] = "Diarrea";
+spaFeel[3] = "Estreñimiento";
+spaFeel[4] = "Tristeza";
+spaFeel[5] = "Gripe";
+spaFeel[6] = "Frío";
+spaFeel[7] = "Congestión";
