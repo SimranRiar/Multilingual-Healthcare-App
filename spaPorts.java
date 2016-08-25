@@ -1,4 +1,3 @@
-package hackRU_Spring2016;
 import java.util.*;
 
 public class spaPorts {
